@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
                     movefragment(tab)
                 }
             })
-            mainTabLayout.getTabAt(1)?.select()
+            mainTabLayout.getTabAt(6)?.select()
         }
 
     }
