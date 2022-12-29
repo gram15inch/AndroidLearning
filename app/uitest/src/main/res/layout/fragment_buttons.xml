@@ -116,7 +116,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="RadioButton"
-            style="@style/Widget.Material3.CompoundButton.RadioButton"
+            style="@style/Widget.AppCompat.CompoundButton.RadioButton"
             tools:layout_editor_absoluteX="62dp"
             tools:layout_editor_absoluteY="303dp" />
 

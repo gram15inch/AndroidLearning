@@ -17,8 +17,6 @@
             app:layout_scrollFlags="scroll|enterAlways"
             app:toolbarId="@+id/toolbar">
 
-
-
             <FrameLayout
                 android:layout_width="match_parent"
                 android:layout_height="150dp"
@@ -294,7 +292,8 @@
                 android:name="com.learning.uitest.TextFragment"
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
-                android:background="@color/grey"/>
+                android:background="@color/grey"
+                tools:layout="@layout/fragment_text" />
 
             <view
                 android:id="@+id/view3"
