@@ -14,5 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "AndroidLearning"
 include ':app'
-include ':app:componenttest'
-include ':app:uitest'
+include ':componenttest'
+include ':uitest'
