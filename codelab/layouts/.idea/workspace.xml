@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d9f5a4a-3779-47c0-a22a-66baf6574c0b" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/../data-persistence/RepositoryPattern-Starter/app/src/main/java/com/example/android/devbyteviewer/ui/DevByteFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../data-persistence/RepositoryPattern-Starter/app/src/main/java/com/example/android/devbyteviewer/ui/DevByteFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-persistence/RepositoryPattern-Starter/app/src/main/java/com/example/android/devbyteviewer/viewmodels/DevByteViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../data-persistence/RepositoryPattern-Starter/app/src/main/java/com/example/android/devbyteviewer/viewmodels/DevByteViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data-persistence/android-basics-kotlin-words-app-main/app/src/main/java/com/example/wordsapp/LetterListFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../data-persistence/android-basics-kotlin-words-app-main/app/src/main/java/com/example/wordsapp/LetterListFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navigation/android-basics-kotlin-words-app-starter/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../navigation/android-basics-kotlin-words-app-starter/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="28kobjRpwUvo2psMAFHwDfcXNCP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tip-calculator" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d9f5a4a-3779-47c0-a22a-66baf6574c0b" name="Changes" comment="" />
+      <created>1651770028472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651770028472</updated>
+      <workItem from="1651770028474" duration="7000" />
+      <workItem from="1651857981454" duration="178000" />
+    </task>
+    <servers />
+  </component>
+</project>

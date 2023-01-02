@@ -1,0 +1,14 @@
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\DevByteApplication.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\build\generated\source\kapt\debug\com\example\android\devbyteviewer\network\NetworkVideoContainerJsonAdapter.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\util\BindingAdapters.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\util\Util.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\build\generated\source\kapt\debug\com\example\android\devbyteviewer\network\NetworkVideoJsonAdapter.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\repository\VideosRepository.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\ui\DevByteFragment.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\ui\DevByteActivity.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\network\DataTransferObjects.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\database\DatabaseEntities.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\database\Room.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\domain\Models.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\network\Service.kt
+C:\Source\officialAndroidDocuments\data-persistence\RepositoryPattern-Starter\app\src\main\java\com\example\android\devbyteviewer\viewmodels\DevByteViewModel.kt
