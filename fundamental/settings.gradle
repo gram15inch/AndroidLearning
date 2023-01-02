@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "AndroidLearning"
+rootProject.name = "fundamental"
 include ':componenttest'
 include ':uitest'
