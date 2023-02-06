@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ButtonsFragment">
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="40dp"
+        android:text="Button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="140dp"
+        android:layout_height="55dp"
+        android:src="@drawable/ic_launcher_foreground"
+        app:layout_constraintStart_toStartOf="@+id/button1"
+        app:layout_constraintTop_toBottomOf="@+id/button1" />
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="@+id/imageButton"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="chip1"
+            style="@style/Widget.MaterialComponents.Chip.Action"
+            tools:layout_editor_absoluteX="118dp"
+            tools:layout_editor_absoluteY="250dp" />
+         <com.google.android.material.chip.Chip
+            android:id="@+id/chip2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+             android:text="chip2"
+            style="@style/Widget.MaterialComponents.Chip.Entry"
+            tools:layout_editor_absoluteX="118dp"
+            tools:layout_editor_absoluteY="250dp" />
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="chip3"
+            style="@style/Widget.MaterialComponents.Chip.Filter"
+            tools:layout_editor_absoluteX="118dp"
+            tools:layout_editor_absoluteY="250dp" />
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:text="chip4"
+            tools:layout_editor_absoluteX="118dp"
+            tools:layout_editor_absoluteY="250dp" />
+
+    </com.google.android.material.chip.ChipGroup>
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CheckBox"
+        app:layout_constraintStart_toStartOf="@+id/chipGroup"
+        app:layout_constraintTop_toBottomOf="@+id/chipGroup" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        style="@style/Widget.AppCompat.CompoundButton.CheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CheckBox"
+        app:layout_constraintStart_toEndOf="@+id/checkBox"
+        app:layout_constraintTop_toTopOf="@+id/checkBox" />
+
+
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        app:layout_constraintStart_toStartOf="@+id/checkBox"
+        app:layout_constraintTop_toBottomOf="@+id/checkBox">
+
+        <RadioButton
+            android:id="@+id/radioButton0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RadioButton"
+            tools:layout_editor_absoluteX="62dp"
+            tools:layout_editor_absoluteY="303dp" />
+
+        <RadioButton
+            android:id="@+id/radioButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RadioButton"
+            style="@style/Widget.AppCompat.CompoundButton.RadioButton"
+            tools:layout_editor_absoluteX="62dp"
+            tools:layout_editor_absoluteY="303dp" />
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RadioButton"
+            style="@style/Widget.AppCompat.CompoundButton.RadioButton"
+            tools:layout_editor_absoluteX="62dp"
+            tools:layout_editor_absoluteY="303dp" />
+
+    </RadioGroup>
+
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ToggleButton"
+        android:checked="true"
+        app:layout_constraintStart_toStartOf="@+id/radioGroup"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Switch"
+        android:showText="true"
+        app:layout_constraintStart_toStartOf="@+id/toggleButton"
+        app:layout_constraintTop_toBottomOf="@+id/toggleButton" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:src="@drawable/ic_launcher_foreground"
+        app:layout_constraintStart_toStartOf="@+id/switch1"
+        app:layout_constraintTop_toBottomOf="@+id/switch1"
+        app:fabSize="mini"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
