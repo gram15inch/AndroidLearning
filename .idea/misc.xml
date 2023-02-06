@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Source/AndroidLearning/app/componenttest/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Source/AndroidLearning/app/uitest/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Source/AndroidLearning/app/uitest/src/main/res/layout/fragment_buttons.xml" value="0.1" />
+        <entry key="..\:/Source/AndroidLearning/app/uitest/src/main/res/layout/fragment_containers.xml" value="0.325" />
+        <entry key="..\:/Source/AndroidLearning/app/uitest/src/main/res/layout/fragment_google.xml" value="0.15989583333333332" />
+        <entry key="..\:/Source/AndroidLearning/app/uitest/src/main/res/layout/fragment_helpers.xml" value="0.15989583333333332" />
+        <entry key="..\:/Source/AndroidLearning/app/uitest/src/main/res/layout/fragment_legacy.xml" value="0.15989583333333332" />
+        <entry key="..\:/Source/AndroidLearning/app/uitest/src/main/res/layout/fragment_text.xml" value="0.325" />
+        <entry key="..\:/Source/AndroidLearning/app/uitest/src/main/res/layout/fragment_widgets.xml" value="0.325" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

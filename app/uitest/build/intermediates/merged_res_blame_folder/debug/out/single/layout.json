@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-mergeDebugResources-4:\\layout\\fragment_helpers.xml",
+        "source": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-main-7:\\layout\\fragment_helpers.xml"
+    },
+    {
+        "merged": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-mergeDebugResources-4:\\layout\\fragment_buttons.xml",
+        "source": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-main-7:\\layout\\fragment_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-mergeDebugResources-4:\\layout\\fragment_containers.xml",
+        "source": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-main-7:\\layout\\fragment_containers.xml"
+    },
+    {
+        "merged": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-mergeDebugResources-4:\\layout\\fragment_google.xml",
+        "source": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-main-7:\\layout\\fragment_google.xml"
+    },
+    {
+        "merged": "com.learning.uitest-mergeDebugResources-4:/layout/fragment_helpers.xml",
+        "source": "com.learning.uitest-main-7:/layout/fragment_helpers.xml"
+    },
+    {
+        "merged": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-mergeDebugResources-4:\\layout\\fragment_text.xml",
+        "source": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-main-7:\\layout\\fragment_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-mergeDebugResources-4:\\layout\\fragment_legacy.xml",
+        "source": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-main-7:\\layout\\fragment_legacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-mergeDebugResources-4:\\layout\\fragment_widgets.xml",
+        "source": "C:\\Users\\engml\\.gradle\\daemon\\7.3.3\\com.learning.uitest-main-7:\\layout\\fragment_widgets.xml"
+    }
+]

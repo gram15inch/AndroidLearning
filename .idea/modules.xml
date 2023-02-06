@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidLearning.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidLearning.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidLearning.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidLearning.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidLearning.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/componenttest/AndroidLearning.app.componenttest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/componenttest/AndroidLearning.app.componenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/componenttest/AndroidLearning.app.componenttest.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/componenttest/AndroidLearning.app.componenttest.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/componenttest/AndroidLearning.app.componenttest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/componenttest/AndroidLearning.app.componenttest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/componenttest/AndroidLearning.app.componenttest.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/componenttest/AndroidLearning.app.componenttest.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidLearning.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidLearning.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/uitest/AndroidLearning.app.uitest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/uitest/AndroidLearning.app.uitest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/uitest/AndroidLearning.app.uitest.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/uitest/AndroidLearning.app.uitest.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/uitest/AndroidLearning.app.uitest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/uitest/AndroidLearning.app.uitest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/uitest/AndroidLearning.app.uitest.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/uitest/AndroidLearning.app.uitest.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidLearning.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidLearning.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
