@@ -9,8 +9,14 @@ import com.learning.uitest.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
     lateinit var binding :ActivityMainBinding
     val manager = supportFragmentManager
-    val fragments =arrayOf(ButtonsFragment(),
-        ContainersFragment(),TextFragment(),WidgetsFragment(),HelpersFragment(),GoogleFragment(),LegacyFragment())
+    val fragments =arrayOf(
+        ButtonsFragment(),
+        ContainersFragment(),
+        TextFragment(),
+        WidgetsFragment(),
+        HelpersFragment(),
+        GoogleFragment(),
+        LegacyFragment())
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding= ActivityMainBinding.inflate(layoutInflater)
@@ -28,7 +34,7 @@ class MainActivity : AppCompatActivity() {
                     movefragment(tab)
                 }
             })
-            mainTabLayout.getTabAt(1)?.select()
+            mainTabLayout.getTabAt(4)?.select()
         }
 
     }

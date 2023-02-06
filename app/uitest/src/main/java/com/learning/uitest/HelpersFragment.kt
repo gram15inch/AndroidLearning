@@ -9,9 +9,6 @@ import android.view.ViewGroup
 
 class HelpersFragment : Fragment() {
 
-
-
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
@@ -19,6 +16,5 @@ class HelpersFragment : Fragment() {
         // Inflate the layout for this fragment
         return inflater.inflate(R.layout.fragment_helpers, container, false)
     }
-
 
 }
